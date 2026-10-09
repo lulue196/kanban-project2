@@ -10,4 +10,4 @@
 ![Categories](screenshots/categories.png)
 
 ### Team Members
-![Team Members](screenshots/members.png)Project screenshots
+![Team Members](screenshots/members.png)
